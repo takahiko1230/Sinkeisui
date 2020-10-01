@@ -7,3 +7,12 @@ C:\Tramp\Tramp\obj\Release\Tramp.csproj.GenerateResource.cache
 C:\Tramp\Tramp\obj\Release\Tramp.csproj.CoreCompileInputs.cache
 C:\Tramp\Tramp\obj\Release\Tramp.exe
 C:\Tramp\Tramp\obj\Release\Tramp.pdb
+C:\Users\takah\OneDrive\ドキュメント\Sinkeisui\Tramp\Tramp\bin\Release\Tramp.exe.config
+C:\Users\takah\OneDrive\ドキュメント\Sinkeisui\Tramp\Tramp\bin\Release\Tramp.exe
+C:\Users\takah\OneDrive\ドキュメント\Sinkeisui\Tramp\Tramp\bin\Release\Tramp.pdb
+C:\Users\takah\OneDrive\ドキュメント\Sinkeisui\Tramp\Tramp\obj\Release\Tramp.Form1.resources
+C:\Users\takah\OneDrive\ドキュメント\Sinkeisui\Tramp\Tramp\obj\Release\Tramp.Properties.Resources.resources
+C:\Users\takah\OneDrive\ドキュメント\Sinkeisui\Tramp\Tramp\obj\Release\Tramp.csproj.GenerateResource.cache
+C:\Users\takah\OneDrive\ドキュメント\Sinkeisui\Tramp\Tramp\obj\Release\Tramp.csproj.CoreCompileInputs.cache
+C:\Users\takah\OneDrive\ドキュメント\Sinkeisui\Tramp\Tramp\obj\Release\Tramp.exe
+C:\Users\takah\OneDrive\ドキュメント\Sinkeisui\Tramp\Tramp\obj\Release\Tramp.pdb
