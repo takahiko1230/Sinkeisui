@@ -1,0 +1,10 @@
+C:\Tramp\Tramp\bin\Debug\Tramp.exe.config
+C:\Tramp\Tramp\bin\Debug\Tramp.exe
+C:\Tramp\Tramp\bin\Debug\Tramp.pdb
+C:\Tramp\Tramp\obj\Debug\Tramp.csprojAssemblyReference.cache
+C:\Tramp\Tramp\obj\Debug\Tramp.Form1.resources
+C:\Tramp\Tramp\obj\Debug\Tramp.Properties.Resources.resources
+C:\Tramp\Tramp\obj\Debug\Tramp.csproj.GenerateResource.cache
+C:\Tramp\Tramp\obj\Debug\Tramp.csproj.CoreCompileInputs.cache
+C:\Tramp\Tramp\obj\Debug\Tramp.exe
+C:\Tramp\Tramp\obj\Debug\Tramp.pdb
